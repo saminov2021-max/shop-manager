@@ -1,0 +1,8 @@
+{
+  "appId": "com.shopmanager.app",
+  "appName": "Shop Manager",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
